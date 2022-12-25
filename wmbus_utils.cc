@@ -4,7 +4,6 @@
 #include<assert.h>
 #include<memory.h>
 #include<vector>
-#include <ArduinoJson.h>
 
 namespace std
 {
